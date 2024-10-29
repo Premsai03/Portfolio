@@ -7,7 +7,7 @@ export const PROJECTS = [
         url: "https://github.com/Premsai03/Password-Generator",
     },
     {
-        url: "https://premsaiel.netlify.app/",
+        url: "https://github.com/Premsai03/Portfolio",
     },
     {
         url: "https://github.com/Premsai03/Tesla-UI",
