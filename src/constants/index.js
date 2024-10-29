@@ -1,7 +1,7 @@
 
 export const PROJECTS = [
     {
-        url: "premsai03.github.io/E-commerce-clone/",
+        url: "https://premsai03.github.io/E-commerce-clone/",
     },
     {
         url: "https://github.com/Premsai03/Password-Generator",
