@@ -53,7 +53,7 @@ const Hero = () => {
           delay: 0.5,
           ease: 'easeInOut',
         }}
-        className='max-w-xl md:max-w-lg font-wixMadeforText font-light text-black md:text-sm lg:text-base'>I am a passionate frontend developer and a web designer with a knack for crafting robust and scalable web applications and designing beautiful user interfaces. I have honed my skills in technologies like JavaScript, React.js, Tailwind css and no-code platforms like Figma and Webflow. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.</motion.p>
+        className='max-w-xl md:max-w-lg font-wixMadeforText font-light text-black md:text-sm lg:text-base'>A frontend developer and web designer with a knack for crafting robust and scalable web applications and designing beautiful user interfaces. I have honed my skills in technologies like JavaScript, React.js, Tailwind css and no-code platforms like Figma and Webflow. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.</motion.p>
       </div>
       
       <div className='mt-10 md:ml-16 lg:mt-0'>
